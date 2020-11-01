@@ -1,5 +1,5 @@
 # ESP8266 Heart Monitor with ECG style graphic
-
+![screenshot](/screenshot.png)
 ## Materials needed
 - ESP8266 board
 - AD8232 - the one I used can be found [here](https://www.dfrobot.com/product-1510.html)
